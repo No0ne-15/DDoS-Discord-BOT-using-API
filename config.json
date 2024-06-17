@@ -1,0 +1,20 @@
+{
+    "token": "TOKEN",
+    "prefix": ".",
+    "status": ".help",
+
+    "l4methods": ["UDP", "OVH", "TCP", "SYN"],
+    "l7methods": ["UAM", "BYPASS", "CAPTCHA", "TLS", "BROWSER"],
+    
+    "api_config": [
+        {
+            "api_url":"https://api.stresser1.xyz",
+            "api_key":"APIKEY",
+            "max_time":"1200"
+        }
+    ],
+
+    "msgGIF": "https://media.discordapp.net/attachments/1252323671310336110/1252323999434805268/standard_1.gif",
+    "attackGIF": "https://media.discordapp.net/attachments/1252323671310336110/1252323998436692038/giphy.gif",
+    "errorGIF": "https://media.discordapp.net/attachments/1252323671310336110/1252323998948130827/T8kd.gif"
+}
