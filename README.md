@@ -6,7 +6,7 @@ Give a star it's free ⭐
 ## Features
 
 ```
-✅ - Launch DDoS Attacks
+✅ - Launch DDoS Attacks throught API
 ✅ - Easy config
 ✅ - CFX Resolver
 ✅ - Console Attacks logging
