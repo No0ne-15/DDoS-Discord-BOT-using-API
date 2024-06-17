@@ -11,6 +11,7 @@ Give a star it's free ⭐
 ✅ - CFX Resolver
 ✅ - Console Attacks logging
 ✅ - Max attack time in config
+✅ - API Funnel
 ❌ - Geo ip command (3 stars ⭐)
 ❌ - Channel Required to attack (5 stars ⭐)
 ❌ - Role Required to attack (10 stars ⭐)
