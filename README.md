@@ -3,6 +3,8 @@ Hi,
 I'm doing this project out of pure boredom. I plan to make a complete and easy-to-use DDoS bot.
 Give a star it's free ⭐
 
+If you need help, please contact me on discord : no0ne_15
+
 ## Features
 
 ```
